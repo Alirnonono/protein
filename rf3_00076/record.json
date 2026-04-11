@@ -1,0 +1,833 @@
+{
+  "confidence_metrics": {
+    "RF3_pLDDT": 0.639882504940033,
+    "confidence_metric_name": "pTM",
+    "has_clash": "False",
+    "iptm": 0.0,
+    "overall_pae": 8.9936,
+    "overall_pde": 2.7807,
+    "overall_plddt": 0.7581,
+    "predicted_structure_format": "cif",
+    "ptm": 0.639882504940033,
+    "ranking_score": 0.128
+  },
+  "design_id": "rf3_00076",
+  "metadata": {
+    "alignment_diagnostics": {
+      "active_labels": [
+        "GLY1",
+        "HIS1",
+        "CYS1",
+        "HIS2",
+        "MET1"
+      ],
+      "alignment_rmsd": 0.008152333468484818,
+      "atom_names": [
+        "N",
+        "CA",
+        "C"
+      ],
+      "atoms_used": [
+        {
+          "atom_name": "N",
+          "label": "GLY1",
+          "motif_coord": [
+            1.734,
+            6.099,
+            17.09
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 45
+          },
+          "residual": 0.013579228049014295,
+          "target_coord": [
+            -2.625,
+            0.47851562,
+            6.0
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 6
+          },
+          "transformed_motif_coord": [
+            -2.6256335977362992,
+            0.48026218367661855,
+            6.01345152421249
+          ]
+        },
+        {
+          "atom_name": "CA",
+          "label": "GLY1",
+          "motif_coord": [
+            2.834,
+            7.039,
+            17.189
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 45
+          },
+          "residual": 0.0129226834640591,
+          "target_coord": [
+            -1.5234375,
+            1.421875,
+            6.125
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 6
+          },
+          "transformed_motif_coord": [
+            -1.5254618866080971,
+            1.4200703079887056,
+            6.112365100177778
+          ]
+        },
+        {
+          "atom_name": "C",
+          "label": "GLY1",
+          "motif_coord": [
+            3.54,
+            7.203,
+            15.859
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 45
+          },
+          "residual": 0.0024726374525827427,
+          "target_coord": [
+            -0.8203125,
+            1.5859375,
+            4.78125
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 6
+          },
+          "transformed_motif_coord": [
+            -0.8194791918063427,
+            1.5838762349023163,
+            4.782331997977526
+          ]
+        },
+        {
+          "atom_name": "N",
+          "label": "HIS1",
+          "motif_coord": [
+            4.017,
+            8.414,
+            15.602
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 46
+          },
+          "residual": 0.006370258180607869,
+          "target_coord": [
+            -0.34179688,
+            2.796875,
+            4.53125
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 7
+          },
+          "transformed_motif_coord": [
+            -0.34227144864507775,
+            2.794777750235128,
+            4.525253624652137
+          ]
+        },
+        {
+          "atom_name": "CA",
+          "label": "HIS1",
+          "motif_coord": [
+            4.718,
+            8.699,
+            14.359
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 46
+          },
+          "residual": 0.0018660121735489697,
+          "target_coord": [
+            0.359375,
+            3.078125,
+            3.28125
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 7
+          },
+          "transformed_motif_coord": [
+            0.35873595633375643,
+            3.079588998359463,
+            3.2822145379349497
+          ]
+        },
+        {
+          "atom_name": "C",
+          "label": "HIS1",
+          "motif_coord": [
+            5.984,
+            9.501,
+            14.575
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 46
+          },
+          "residual": 0.006643192541648225,
+          "target_coord": [
+            1.625,
+            3.875,
+            3.5
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 7
+          },
+          "transformed_motif_coord": [
+            1.62488706683573,
+            3.8813733666005943,
+            3.4981293179264643
+          ]
+        },
+        {
+          "atom_name": "N",
+          "label": "CYS1",
+          "motif_coord": [
+            8.335,
+            6.537,
+            8.904
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 112
+          },
+          "residual": 0.006604489738584506,
+          "target_coord": [
+            3.96875,
+            0.91796875,
+            -2.171875
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 47
+          },
+          "transformed_motif_coord": [
+            3.975157574114169,
+            0.9166639373528316,
+            -2.172802223076875
+          ]
+        },
+        {
+          "atom_name": "CA",
+          "label": "CYS1",
+          "motif_coord": [
+            8.012,
+            6.389,
+            10.313
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 112
+          },
+          "residual": 0.004527327777083906,
+          "target_coord": [
+            3.65625,
+            0.76953125,
+            -0.765625
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 47
+          },
+          "transformed_motif_coord": [
+            3.652180507768147,
+            0.7687934747870111,
+            -0.7637833655327011
+          ]
+        },
+        {
+          "atom_name": "C",
+          "label": "CYS1",
+          "motif_coord": [
+            8.458,
+            4.985,
+            10.665
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 112
+          },
+          "residual": 0.0044517678362462655,
+          "target_coord": [
+            4.09375,
+            -0.63671875,
+            -0.41210938
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 47
+          },
+          "transformed_motif_coord": [
+            4.097941534923207,
+            -0.6352684174528918,
+            -0.4117275327030683
+          ]
+        },
+        {
+          "atom_name": "N",
+          "label": "HIS2",
+          "motif_coord": [
+            4.135,
+            0.826,
+            10.229
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 117
+          },
+          "residual": 0.01232959641502103,
+          "target_coord": [
+            -0.22460938,
+            -4.78125,
+            -0.84765625
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 74
+          },
+          "transformed_motif_coord": [
+            -0.22581813359906988,
+            -4.793516726694879,
+            -0.8473642248517983
+          ]
+        },
+        {
+          "atom_name": "CA",
+          "label": "HIS2",
+          "motif_coord": [
+            3.797,
+            2.076,
+            9.567
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 117
+          },
+          "residual": 0.003908819787676833,
+          "target_coord": [
+            -0.5625,
+            -3.546875,
+            -1.5078125
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 74
+          },
+          "transformed_motif_coord": [
+            -0.5636176011308822,
+            -3.5434899426885704,
+            -1.5094160045503902
+          ]
+        },
+        {
+          "atom_name": "C",
+          "label": "HIS2",
+          "motif_coord": [
+            4.499,
+            2.421,
+            8.273
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 117
+          },
+          "residual": 0.008040207360238227,
+          "target_coord": [
+            0.13964844,
+            -3.203125,
+            -2.796875
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 74
+          },
+          "transformed_motif_coord": [
+            0.13839875484979114,
+            -3.1986814705092366,
+            -2.803458180620771
+          ]
+        },
+        {
+          "atom_name": "N",
+          "label": "MET1",
+          "motif_coord": [
+            3.695,
+            4.917,
+            5.393
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 121
+          },
+          "residual": 0.00414299203625056,
+          "target_coord": [
+            -0.6640625,
+            -0.703125,
+            -5.6875
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 76
+          },
+          "transformed_motif_coord": [
+            -0.6652554698259352,
+            -0.7026841912246704,
+            -5.683557045063606
+          ]
+        },
+        {
+          "atom_name": "CA",
+          "label": "MET1",
+          "motif_coord": [
+            4.364,
+            6.133,
+            5.84
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 121
+          },
+          "residual": 0.013462595303266047,
+          "target_coord": [
+            0.0047302246,
+            0.51171875,
+            -5.25
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 76
+          },
+          "transformed_motif_coord": [
+            0.003977857497711845,
+            0.5132187899810585,
+            -5.2366424067999455
+          ]
+        },
+        {
+          "atom_name": "C",
+          "label": "MET1",
+          "motif_coord": [
+            5.823,
+            6.225,
+            5.446
+          ],
+          "motif_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 121
+          },
+          "residual": 0.006076674303516962,
+          "target_coord": [
+            1.4609375,
+            0.60546875,
+            -5.625
+          ],
+          "target_residue_id": {
+            "chain_id": "A",
+            "icode": "",
+            "resseq": 76
+          },
+          "transformed_motif_coord": [
+            1.4629804816291925,
+            0.6049375746865211,
+            -5.630698249682153
+          ]
+        }
+      ]
+    },
+    "bias_json": "/mnt/nas/w3374/cu_designer/runs/dierci/stage3_ligandmpnn/rfd3_00534/bias.json",
+    "conversion_performed": true,
+    "detected_structure_format": "cif.gz",
+    "fastrelax_skipped": true,
+    "fixed_positions_json": "/mnt/nas/w3374/cu_designer/runs/dierci/stage3_ligandmpnn/rfd3_00534/fixed_positions.json",
+    "ligandmpnn_seed": 101,
+    "mapping_path": null,
+    "mode_target_geometry": {
+      "active_labels": [
+        "GLY1",
+        "HIS1",
+        "CYS1",
+        "HIS2",
+        "MET1"
+      ],
+      "angle_targets_by_key": {
+        "CYS1|GLY1": 97.2738550033506,
+        "CYS1|HIS1": 132.74990233220984,
+        "CYS1|HIS2": 121.93372219675365,
+        "CYS1|MET1": 110.73311373586725,
+        "GLY1|HIS1": 77.93115605316099,
+        "GLY1|HIS2": 89.7238201680156,
+        "GLY1|MET1": 148.60923219422844,
+        "HIS1|HIS2": 105.14606114253317,
+        "HIS1|MET1": 72.75185078510967,
+        "HIS2|MET1": 87.31820898870197
+      },
+      "angles": {
+        "CYS1_Cu_HIS2": 121.93372219675365,
+        "CYS1_Cu_MET1": 110.73311373586725,
+        "GLY1_Cu_CYS1": 97.2738550033506,
+        "GLY1_Cu_HIS1": 77.93115605316099,
+        "GLY1_Cu_HIS2": 89.7238201680156,
+        "GLY1_Cu_MET1": 148.60923219422844,
+        "HIS1_Cu_CYS1": 132.74990233220984,
+        "HIS1_Cu_HIS2": 105.14606114253317,
+        "HIS1_Cu_MET1": 72.75185078510967,
+        "HIS2_Cu_MET1": 87.31820898870197
+      },
+      "distance_targets_by_label": {
+        "CYS1": 2.2295851632086183,
+        "GLY1": 2.6742043676577896,
+        "HIS1": 2.05865271476274,
+        "HIS2": 2.1222973401481715,
+        "MET1": 3.3111226192939456
+      },
+      "distances": {
+        "Cu_CYS1": 2.2295851632086183,
+        "Cu_GLY1": 2.6742043676577896,
+        "Cu_HIS1": 2.05865271476274,
+        "Cu_HIS2": 2.1222973401481715,
+        "Cu_MET1": 3.3111226192939456
+      },
+      "fixed_donor_atoms": {
+        "CYS1": "SG",
+        "GLY1": "O",
+        "HIS1": "ND1",
+        "HIS2": "ND1",
+        "MET1": "SD"
+      }
+    },
+    "motif_alignment_rmsd": 0.008152333468484818,
+    "motif_mode": "add_gly_backbone",
+    "normalized_cu_anchor": {
+      "atom_name": "CU",
+      "coord": [
+        -0.5777905390607416,
+        0.5226567192963678,
+        1.3203775305081624
+      ],
+      "residue_id": {
+        "chain_id": "A",
+        "icode": "",
+        "resseq": 901
+      },
+      "residue_name": "CU1"
+    },
+    "normalized_structure_format": "pdb",
+    "normalized_structure_path": "/mnt/nas/w3374/cu_designer/runs/dierci/stage1_rfd3/normalized/rfd3_00534.pdb",
+    "original_structure_format": "cif.gz",
+    "predicted_structure_format": "cif",
+    "raw_backbone_path": "/mnt/nas/w3374/cu_designer/runs/dierci/stage1_rfd3/seed_632/rfd3_input_dierci_9_model_4.cif.gz",
+    "reference_cu_coord": [
+      -0.5777905390607416,
+      0.5226567192963678,
+      1.3203775305081624
+    ],
+    "residue_order_indices": {
+      "CYS1": 46,
+      "GLY1": 5,
+      "HIS1": 6,
+      "HIS2": 73,
+      "MET1": 49
+    },
+    "rf3_input_json": "/mnt/nas/w3374/cu_designer/runs/dierci/stage5_rf3/rf3_00076/rf3_input.json",
+    "rf3_input_with_reference_cu_path": null,
+    "rf3_manifest_source": "ligandmpnn_fallback",
+    "rf3_seed": 404,
+    "rfd3_active_labels": [
+      "GLY1",
+      "HIS1",
+      "CYS1",
+      "HIS2",
+      "MET1"
+    ],
+    "rfd3_input_json": "/mnt/nas/w3374/cu_designer/runs/dierci/stage1_rfd3/rfd3_input.json",
+    "rfd3_input_motif_pdb": "/mnt/nas/w3374/cu_designer/runs/dierci/stage0_motif/motif_add_gly_backbone.pdb",
+    "seed": 632,
+    "source_relaxed_pdb": "/mnt/nas/w3374/cu_designer/runs/dierci/stage1_rfd3/normalized/rfd3_00534.pdb",
+    "source_stage3_design_id": "mpnn_00076",
+    "source_stage3_manifest": "/mnt/nas/w3374/cu_designer/runs/dierci/stage3_ligandmpnn/manifest.jsonl",
+    "stage1_initial_mapping_source": "geometry_fallback",
+    "stage1_initial_mapping_status": "geometry_fallback",
+    "stage1_mapping_source": "cu_anchor",
+    "stage1_mapping_status": "cu_anchor_geometry",
+    "stage1_name_mismatches": [],
+    "stage1_remap_debug": {
+      "all_cys_candidates": [
+        "A:47"
+      ],
+      "all_his_candidates": [
+        "A:7",
+        "A:66",
+        "A:74"
+      ],
+      "final_chosen_mapping": {
+        "CYS1": "A:47",
+        "HIS1": "A:7",
+        "HIS2": "A:74"
+      },
+      "injected_cu": {
+        "atom_name": "CU",
+        "coord": [
+          -0.5777905390607416,
+          0.5226567192963678,
+          1.3203775305081624
+        ],
+        "residue_id": {
+          "chain_id": "A",
+          "icode": "",
+          "resseq": 901
+        },
+        "residue_name": "CU1"
+      },
+      "mapping_source": "Cu-anchor",
+      "optional_label_mapping": {
+        "GLY1": {
+          "his1_residue_id": "A:7",
+          "status": "no_adjacent_gly_his1_pair"
+        },
+        "MET1": {
+          "candidates": [
+            {
+              "distance_error": 16.866213958040603,
+              "observed_distance": 20.17733657733455,
+              "residue_id": "A:1"
+            },
+            {
+              "distance_error": 7.928704734014607,
+              "observed_distance": 11.239827353308552,
+              "residue_id": "A:15"
+            },
+            {
+              "distance_error": 7.747888558733981,
+              "observed_distance": 11.059011178027927,
+              "residue_id": "A:44"
+            },
+            {
+              "distance_error": 1.9266928943344444,
+              "observed_distance": 5.23781551362839,
+              "residue_id": "A:50"
+            },
+            {
+              "distance_error": 11.270561576838041,
+              "observed_distance": 14.581684196131986,
+              "residue_id": "A:53"
+            }
+          ],
+          "distance_error": 1.9266928943344444,
+          "residue_id": "A:50",
+          "status": "assigned_best_available_candidate",
+          "target_distance": 3.3111226192939456
+        }
+      },
+      "status": "selected",
+      "target_angles": {
+        "CYS1|GLY1": 97.2738550033506,
+        "CYS1|HIS1": 132.74990233220984,
+        "CYS1|HIS2": 121.93372219675365,
+        "CYS1|MET1": 110.73311373586725,
+        "GLY1|HIS1": 77.93115605316099,
+        "GLY1|HIS2": 89.7238201680156,
+        "GLY1|MET1": 148.60923219422844,
+        "HIS1|HIS2": 105.14606114253317,
+        "HIS1|MET1": 72.75185078510967,
+        "HIS2|MET1": 87.31820898870197
+      },
+      "target_distances": {
+        "CYS1": 2.2295851632086183,
+        "HIS1": 2.05865271476274,
+        "HIS2": 2.1222973401481715
+      },
+      "tested_combinations": [
+        {
+          "angle_errors": {
+            "CYS1|HIS1": 0.6863959082796214,
+            "CYS1|HIS2": 46.34829457987881,
+            "HIS1|HIS2": 13.482268615403953
+          },
+          "distance_errors": {
+            "CYS1": 0.012538888720533325,
+            "HIS1": 0.00281890548752628,
+            "HIS2": 15.73139022447295
+          },
+          "geometry_score": 41.38410201682127,
+          "mapping": {
+            "CYS1": "A:47",
+            "HIS1": "A:7",
+            "HIS2": "A:66"
+          }
+        },
+        {
+          "angle_errors": {
+            "CYS1|HIS1": 0.6863959082796214,
+            "CYS1|HIS2": 0.9027330934146391,
+            "HIS1|HIS2": 0.20445160282653774
+          },
+          "distance_errors": {
+            "CYS1": 0.012538888720533325,
+            "HIS1": 0.00281890548752628,
+            "HIS2": 0.010408312642517625
+          },
+          "geometry_score": 0.12420128727713635,
+          "mapping": {
+            "CYS1": "A:47",
+            "HIS1": "A:7",
+            "HIS2": "A:74"
+          }
+        },
+        {
+          "angle_errors": {
+            "CYS1|HIS1": 60.714624582648554,
+            "CYS1|HIS2": 4.727649012918576,
+            "HIS1|HIS2": 40.13060373078795
+          },
+          "distance_errors": {
+            "CYS1": 0.012538888720533325,
+            "HIS1": 17.003439656841163,
+            "HIS2": 1.137225898169571
+          },
+          "geometry_score": 48.902107020206664,
+          "mapping": {
+            "CYS1": "A:47",
+            "HIS1": "A:66",
+            "HIS2": "A:7"
+          }
+        },
+        {
+          "angle_errors": {
+            "CYS1|HIS1": 60.714624582648554,
+            "CYS1|HIS2": 0.9027330934146391,
+            "HIS1|HIS2": 29.974490232622458
+          },
+          "distance_errors": {
+            "CYS1": 0.012538888720533325,
+            "HIS1": 17.003439656841163,
+            "HIS2": 0.010408312642517625
+          },
+          "geometry_score": 45.61902874246671,
+          "mapping": {
+            "CYS1": "A:47",
+            "HIS1": "A:66",
+            "HIS2": "A:74"
+          }
+        },
+        {
+          "angle_errors": {
+            "CYS1|HIS1": 17.384719833586544,
+            "CYS1|HIS2": 4.727649012918576,
+            "HIS1|HIS2": 16.24562583151743
+          },
+          "distance_errors": {
+            "CYS1": 0.012538888720533325,
+            "HIS1": 1.7047446354786047,
+            "HIS2": 1.137225898169571
+          },
+          "geometry_score": 8.414873378522524,
+          "mapping": {
+            "CYS1": "A:47",
+            "HIS1": "A:74",
+            "HIS2": "A:7"
+          }
+        },
+        {
+          "angle_errors": {
+            "CYS1|HIS1": 17.384719833586544,
+            "CYS1|HIS2": 46.34829457987881,
+            "HIS1|HIS2": 31.05334068896893
+          },
+          "distance_errors": {
+            "CYS1": 0.012538888720533325,
+            "HIS1": 1.7047446354786047,
+            "HIS2": 15.73139022447295
+          },
+          "geometry_score": 46.781229541761356,
+          "mapping": {
+            "CYS1": "A:47",
+            "HIS1": "A:74",
+            "HIS2": "A:66"
+          }
+        }
+      ]
+    }
+  },
+  "motif_mapping": {
+    "CU1": {
+      "chain_id": "A",
+      "icode": "",
+      "resseq": 901
+    },
+    "CYS1": {
+      "chain_id": "A",
+      "icode": "",
+      "resseq": 47
+    },
+    "GLY1": {
+      "chain_id": "A",
+      "icode": "",
+      "resseq": 6
+    },
+    "HIS1": {
+      "chain_id": "A",
+      "icode": "",
+      "resseq": 7
+    },
+    "HIS2": {
+      "chain_id": "A",
+      "icode": "",
+      "resseq": 74
+    },
+    "MET1": {
+      "chain_id": "A",
+      "icode": "",
+      "resseq": 50
+    }
+  },
+  "parent_design_id": "mpnn_00076",
+  "predicted_pdb_path": "/mnt/nas/w3374/cu_designer/runs/dierci/stage5_rf3/rf3_00076/rf3_00076/rf3_00076_model.cif",
+  "sequence_only_mode": true,
+  "sequence_path": "/mnt/nas/w3374/cu_designer/runs/dierci/stage3_ligandmpnn/mpnn_00076/sequence.fasta"
+}
